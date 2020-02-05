@@ -1,4 +1,3 @@
-alert('qwer');
 let Dad = {
     name: 'Jackie',
     age: 32,
